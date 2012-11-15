@@ -1,5 +1,5 @@
-<?
+<?php
 
-test aa merrsge
+test merged merge
 
 ?>
